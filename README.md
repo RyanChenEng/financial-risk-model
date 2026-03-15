@@ -20,6 +20,7 @@ As a mechanical engineer I use simulation and probabilistic modeling to assess s
 - matplotlib
 
 ### Project Structure
+````
 financial-risk-model/
 ├── main.py
 ├── requirements.txt
@@ -30,12 +31,13 @@ financial-risk-model/
 │   ├── monte_carlo.py
 │   └── stress_test.py
 └── charts/
+````
 
 ### Visualizations
-![Monte Carlo Example](Monte_Carlo.png)
-![Stress Test for 2008 Example](Stress_Test_2008.png)
-![Stress Test for COVID Example](Stress_Test_COVID.png)
-![Stress Test for 2022 Example](Stress_Test_2022.png)
+![Monte Carlo Example](Charts/Monte_Carlo.png)
+![Stress Test for 2008 Example](Charts/Stress_Test_2008.png)
+![Stress Test for COVID Example](Charts/Stress_Test_COVID.png)
+![Stress Test for 2022 Example](Charts/Stress_Test_2022.png)
 
 ### How to Run It
 ```bash
