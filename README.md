@@ -41,7 +41,7 @@ financial-risk-model/
 
 ### How to Run It
 ```bash
-git clone https://github.com/RNC2020/financial-risk-model
+git clone https://github.com/RyanChenEng/financial-risk-model
 cd financial-risk-model
 pip install -r requirements.txt
 python3 main.py
