@@ -108,7 +108,6 @@ if run:
         mc_results = run_monte_carlo(log_returns, weights, 10000, 252)
         mc_df = pd.DataFrame(mc_results).T
         fig1, ax1 = plt.subplots(figsize=(12, 5))
-        fig1, ax1 = plt.subplots(figsize=(12, 5))
         ax1.plot(mc_df, alpha=0.1, color='blue')
         ax1.set_title("Monte Carlo 10,000 Simulations")
         ax1.set_xlabel("Days")
