@@ -1,18 +1,14 @@
 # Financial Risk Modeling & Monte Carlo Simulation Engine
-<<<<<<< HEAD
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?logo=streamlit)]([YOUR_STREAMLIT_URL_HERE](https://ryanchen-financial-risk-model.streamlit.app))
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?logo=streamlit)](https://ryanchen-financial-risk-model.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
 
-=======
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-red)](https://ryanchen-financial-risk-model.streamlit.app/)
->>>>>>> 95ee7fa8e3163329853023cdf24510577b1ec00e
 ### Background
 As a mechanical engineer I use simulation and probabilistic modeling to assess structural risk. This project applies the same thinking to financial portfolios. Using Monte Carlo simulation and statistical risk metrics to quantify downside exposure the way professional risk teams do at major financial institutions.
 
 ### Live Demo
 Try the interactive dashboard here:
-👉 [Financial Risk Analyzer](https://ryanchen-financial-risk-model.streamlit.app)
+[Financial Risk Analyzer](https://ryanchen-financial-risk-model.streamlit.app)
 
 Enter any tickers, adjust portfolio weights, and run a full risk analysis 
 including Monte Carlo simulation and historical stress testing in real time.
